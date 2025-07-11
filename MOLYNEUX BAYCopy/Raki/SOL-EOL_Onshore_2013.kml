@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="SOL_EOL_Onshore" id="SOL_EOL_Onshore">
+	<SimpleField name="field_1" type="int"></SimpleField>
+	<SimpleField name="field_2" type="string"></SimpleField>
+	<SimpleField name="field_3" type="float"></SimpleField>
+	<SimpleField name="field_4" type="float"></SimpleField>
+	<SimpleField name="field_5" type="string"></SimpleField>
+</Schema>
+<Folder><name>SOL_EOL_Onshore</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">1</SimpleData>
+		<SimpleData name="field_2">MB1</SimpleData>
+		<SimpleData name="field_3">1352098.06</SimpleData>
+		<SimpleData name="field_4">4860507.49</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.777217219454,-46.3635710338544</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">2</SimpleData>
+		<SimpleData name="field_2">MB1</SimpleData>
+		<SimpleData name="field_3">1352555.97</SimpleData>
+		<SimpleData name="field_4">4860035.72</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782911503546,-46.3679776742253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">3</SimpleData>
+		<SimpleData name="field_2">MB2</SimpleData>
+		<SimpleData name="field_3">1353420.86</SimpleData>
+		<SimpleData name="field_4">4862850.34</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.795618431245,-46.3430020076123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">4</SimpleData>
+		<SimpleData name="field_2">MB2</SimpleData>
+		<SimpleData name="field_3">1354080.67</SimpleData>
+		<SimpleData name="field_4">4862175.49</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.803825542449,-46.3493058871313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">5</SimpleData>
+		<SimpleData name="field_2">MB3</SimpleData>
+		<SimpleData name="field_3">1355795.24</SimpleData>
+		<SimpleData name="field_4">4864449.39</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.827257972539,-46.3294930024315</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">6</SimpleData>
+		<SimpleData name="field_2">MB3</SimpleData>
+		<SimpleData name="field_3">1356226.43</SimpleData>
+		<SimpleData name="field_4">4863995.91</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.832615876052,-46.3337232157618</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">7</SimpleData>
+		<SimpleData name="field_2">MB4</SimpleData>
+		<SimpleData name="field_3">1358338.52</SimpleData>
+		<SimpleData name="field_4">4865519.01</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.860800344905,-46.3207926508183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">8</SimpleData>
+		<SimpleData name="field_2">MB4</SimpleData>
+		<SimpleData name="field_3">1358567.18</SimpleData>
+		<SimpleData name="field_4">4865291.55</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.863649214967,-46.3229181472324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">9</SimpleData>
+		<SimpleData name="field_2">MB5</SimpleData>
+		<SimpleData name="field_3">1360132.78</SimpleData>
+		<SimpleData name="field_4">4866397.56</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.884521297256,-46.3135347221472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">10</SimpleData>
+		<SimpleData name="field_2">MB5</SimpleData>
+		<SimpleData name="field_3">1360421.59</SimpleData>
+		<SimpleData name="field_4">4866116.41</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.888123486964,-46.3161633845585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">11</SimpleData>
+		<SimpleData name="field_2">MB6</SimpleData>
+		<SimpleData name="field_3">1364206.24</SimpleData>
+		<SimpleData name="field_4">4870348.88</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.939332335952,-46.2794527900135</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">12</SimpleData>
+		<SimpleData name="field_2">MB6</SimpleData>
+		<SimpleData name="field_3">1364430.61</SimpleData>
+		<SimpleData name="field_4">4870108.73</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.942120326101,-46.2816889192547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">13</SimpleData>
+		<SimpleData name="field_2">MB7</SimpleData>
+		<SimpleData name="field_3">1367808.43</SimpleData>
+		<SimpleData name="field_4">4873279.84</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.987468258744,-46.2543524003112</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">14</SimpleData>
+		<SimpleData name="field_2">MB7</SimpleData>
+		<SimpleData name="field_3">1368141.22</SimpleData>
+		<SimpleData name="field_4">4872946.35</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.991615892388,-46.2574632788419</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">15</SimpleData>
+		<SimpleData name="field_2">MB8</SimpleData>
+		<SimpleData name="field_3">1371028.49</SimpleData>
+		<SimpleData name="field_4">4876831.23</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.030912705721,-46.2235256812283</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">16</SimpleData>
+		<SimpleData name="field_2">MB8</SimpleData>
+		<SimpleData name="field_3">1371446.73</SimpleData>
+		<SimpleData name="field_4">4876425.38</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.036132195437,-46.2273140841353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">17</SimpleData>
+		<SimpleData name="field_2">KAK1</SimpleData>
+		<SimpleData name="field_3">1352567.13</SimpleData>
+		<SimpleData name="field_4">4858965.84</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782491265037,-46.3775952130428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">18</SimpleData>
+		<SimpleData name="field_2">KAK1</SimpleData>
+		<SimpleData name="field_3">1352714.04</SimpleData>
+		<SimpleData name="field_4">4858917.84</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.784373213051,-46.3780802232492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">19</SimpleData>
+		<SimpleData name="field_2">KAK2</SimpleData>
+		<SimpleData name="field_3">1352555.55</SimpleData>
+		<SimpleData name="field_4">4858686.81</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782193489984,-46.3800982124353</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">20</SimpleData>
+		<SimpleData name="field_2">KAK2</SimpleData>
+		<SimpleData name="field_3">1352684.89</SimpleData>
+		<SimpleData name="field_4">4858646.99</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.783851721349,-46.3805033056674</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">21</SimpleData>
+		<SimpleData name="field_2">KAK3</SimpleData>
+		<SimpleData name="field_3">1352609.52</SimpleData>
+		<SimpleData name="field_4">4858012.34</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782537815453,-46.3861784196727</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">22</SimpleData>
+		<SimpleData name="field_2">KAK3</SimpleData>
+		<SimpleData name="field_3">1352735.84</SimpleData>
+		<SimpleData name="field_4">4857952.61</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.784146500459,-46.3867613105214</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">23</SimpleData>
+		<SimpleData name="field_2">KAK4</SimpleData>
+		<SimpleData name="field_3">1352505.31</SimpleData>
+		<SimpleData name="field_4">4857409.7</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.780866016415,-46.3915553279492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">24</SimpleData>
+		<SimpleData name="field_2">KAK4</SimpleData>
+		<SimpleData name="field_3">1352647.35</SimpleData>
+		<SimpleData name="field_4">4857375.46</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782692452936,-46.3919149540537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">25</SimpleData>
+		<SimpleData name="field_2">KAK5</SimpleData>
+		<SimpleData name="field_3">1352473.75</SimpleData>
+		<SimpleData name="field_4">4857101.4</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.780293101427,-46.3943140069126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">26</SimpleData>
+		<SimpleData name="field_2">KAK5</SimpleData>
+		<SimpleData name="field_3">1352665.55</SimpleData>
+		<SimpleData name="field_4">4857069.64</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782767157133,-46.3946695609579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">27</SimpleData>
+		<SimpleData name="field_2">KAK6</SimpleData>
+		<SimpleData name="field_3">1352454.83</SimpleData>
+		<SimpleData name="field_4">4856875.66</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.779927963416,-46.3963354659776</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">28</SimpleData>
+		<SimpleData name="field_2">KAK6</SimpleData>
+		<SimpleData name="field_3">1352673.73</SimpleData>
+		<SimpleData name="field_4">4856873.77</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.782769851579,-46.396432545168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">29</SimpleData>
+		<SimpleData name="field_2">KAK7</SimpleData>
+		<SimpleData name="field_3">1352713.54</SimpleData>
+		<SimpleData name="field_4">4856449.86</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.783062794485,-46.4002561528072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">30</SimpleData>
+		<SimpleData name="field_2">KAK7</SimpleData>
+		<SimpleData name="field_3">1352855.14</SimpleData>
+		<SimpleData name="field_4">4856555.38</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.784957660921,-46.3993597732702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">31</SimpleData>
+		<SimpleData name="field_2">KAK8</SimpleData>
+		<SimpleData name="field_3">1352887.54</SimpleData>
+		<SimpleData name="field_4">4856228.01</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.785205521521,-46.4023132071292</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">32</SimpleData>
+		<SimpleData name="field_2">KAK8</SimpleData>
+		<SimpleData name="field_3">1352956.38</SimpleData>
+		<SimpleData name="field_4">4856293.91</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.786134465054,-46.4017462182486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">33</SimpleData>
+		<SimpleData name="field_2">KAK9</SimpleData>
+		<SimpleData name="field_3">1353343.28</SimpleData>
+		<SimpleData name="field_4">4855699.31</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.790846122265,-46.4072302996968</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">34</SimpleData>
+		<SimpleData name="field_2">KAK9</SimpleData>
+		<SimpleData name="field_3">1353476.43</SimpleData>
+		<SimpleData name="field_4">4855749.7</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.792602288838,-46.4068260884819</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">35</SimpleData>
+		<SimpleData name="field_2">KAK10</SimpleData>
+		<SimpleData name="field_3">1353634.47</SimpleData>
+		<SimpleData name="field_4">4855437.28</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.794490579468,-46.4096909858814</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">36</SimpleData>
+		<SimpleData name="field_2">KAK10</SimpleData>
+		<SimpleData name="field_3">1353711.35</SimpleData>
+		<SimpleData name="field_4">4855515.57</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.795530529253,-46.4090155207829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">37</SimpleData>
+		<SimpleData name="field_2">KAK11</SimpleData>
+		<SimpleData name="field_3">1353745.05</SimpleData>
+		<SimpleData name="field_4">4854584.54</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.79547782859,-46.4173936619012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">38</SimpleData>
+		<SimpleData name="field_2">KAK11</SimpleData>
+		<SimpleData name="field_3">1353916.1</SimpleData>
+		<SimpleData name="field_4">4854526.41</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.797669559072,-46.4179783089426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">39</SimpleData>
+		<SimpleData name="field_2">KAK12</SimpleData>
+		<SimpleData name="field_3">1353646.43</SimpleData>
+		<SimpleData name="field_4">4853187.53</SimpleData>
+		<SimpleData name="field_5">sol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.793459867213,-46.4299106410972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#SOL_EOL_Onshore">
+		<SimpleData name="field_1">40</SimpleData>
+		<SimpleData name="field_2">KAK12</SimpleData>
+		<SimpleData name="field_3">1353751.1</SimpleData>
+		<SimpleData name="field_4">4853293.58</SimpleData>
+		<SimpleData name="field_5">eol</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.794875998334,-46.4289958900758</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

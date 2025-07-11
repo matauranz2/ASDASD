@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8" ?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd"><Document><name>NZ Property Titles</name>
+<description><![CDATA[
+<style>
+	.heading {
+		font-size: 12px;
+		font-weight: bold;
+	}
+</style>
+<base href="https://data.linz.govt.nz/" />
+
+
+    <div class="heading">Description</div>
+    <hr>
+<p>This dataset provides title information (excluding ownership) where there is a relationship to one or more primary parcels.</p>
+<p>A Record of Title is a record of a property's owners, legal description and the rights and responsibilities  registered against the title.This dataset does not contain any ownership information so that it can be freely distributed. If ownership information is required, you need to <a href="https://www.linz.govt.nz/products-services/data/licensing-and-using-data/linz-licence-personal-data">apply for access</a>.</p>
+<p>There can be multiple parcels associated with a title, and a title may only have a part share in a parcel. This means the shape representing the title will be an aggregation of all parcels that the title is associated with. The ‘spatial extents shared’ attribute when equal to ‘false’ will indicate that title has exclusive interest over all of the shape (this will be case for the vast majority).</p>
+<p>The originating data for parcel/title associations includes some non-official sources where the official data does not support a link. For more information see the <a href="https://www.linz.govt.nz/products-services/data/types-linz-data/property-ownership-and-boundary-data/types-lds-property-ownership-and-boundary-data">LINZ website</a></p>
+<hr>
+<p><strong>APIs and web services</strong><br>
+This dataset is available via ArcGIS Online and ArcGIS REST services, as well as our standard APIs.<br>
+<a href="https://data.linz.govt.nz/layer/50804-nz-property-titles/services/" target="_self">LDS APIs and OGC web services</a><br>
+<a href="https://linz.maps.arcgis.com/home/item.html?id=11ba5960f1d7472781310ad93ff2d9c6">ArcGIS Online map services</a></p>
+
+
+
+	<div class="heading">License</div>
+	<hr>
+	License: <a href="https://data.linz.govt.nz/license/attribution-4-0-international/" onclick="window.open('about:blank'); window.open(this.href); return false;">Creative Commons Attribution 4.0 International</a>
+
+
+<hr>
+
+
+
+<div class="footer">Source: <a href="https://data.linz.govt.nz/layer/50804-nz-property-titles/" onclick="window.open('about:blank'); window.open(this.href); return false;">NZ Property Titles</a></div>
+<div class="footer">Data last updated: 07 Feb 2025</div>
+<div class="footer">Downloaded from <a href="https://data.linz.govt.nz/" onclick="window.open('about:blank'); window.open(this.href); return false;">LINZ Data Service</a> on 12 Feb 2025</div>
+]]></description>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">22038</SimpleData>
+<SimpleData name="title_no">OT6D/1428</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1977-01-27 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 2 Deposited Plan 10358, 728 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485089,-45.873125 170.485093,-45.873115 170.485107,-45.873083 170.485138,-45.873090 170.485129,-45.873111 170.485160,-45.873118 170.485179,-45.873122 170.485179,-45.873144 170.485089,-45.873125</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">22042</SimpleData>
+<SimpleData name="title_no">OT370/26</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1954-02-04 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 1 Deposited Plan 7825, 644 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485168,-45.873096 170.485179,-45.873071 170.485179,-45.873098 170.485168,-45.873096</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">4318371</SimpleData>
+<SimpleData name="title_no">236943</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">2006-09-05 09:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 3 Deposited Plan 358149, 788 m2</SimpleData>
+<SimpleData name="number_owners">4</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484658,-45.873025 170.484521,-45.873349 170.484472,-45.873368 170.484304,-45.873333 170.484341,-45.873115 170.484404,-45.872973 170.484658,-45.873025</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">22041</SimpleData>
+<SimpleData name="title_no">OT278/158</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1936-11-07 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 3 Deposited Plan 4756, 1,787 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484860,-45.873505 170.483733,-45.873272 170.483750,-45.873219 170.484137,-45.873299 170.484181,-45.873308 170.484304,-45.873333 170.484472,-45.873368 170.484521,-45.873349 170.484658,-45.873025 170.485031,-45.873102 170.484860,-45.873505</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">22039</SimpleData>
+<SimpleData name="title_no">OT6D/1429</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1977-01-27 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 4 Deposited Plan 10358, 2,534 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484425,-45.872943 170.484701,-45.873000 170.485044,-45.873071 170.485076,-45.873077 170.485068,-45.873094 170.485062,-45.873109 170.484929,-45.873425 170.485179,-45.873476 170.485179,-45.873578 170.484847,-45.873578 170.484876,-45.873508 170.484860,-45.873505 170.485031,-45.873102 170.484658,-45.873025 170.484404,-45.872973 170.484285,-45.872948 170.484271,-45.872945 170.483857,-45.872860 170.483867,-45.872828 170.483867,-45.872828 170.484425,-45.872943</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">19655</SimpleData>
+<SimpleData name="title_no">OT6D/1427</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1977-01-27 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 3 Deposited Plan 10358, 1,062 m2</SimpleData>
+<SimpleData name="number_owners">3</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485093,-45.873115 170.485089,-45.873125 170.485179,-45.873144 170.485179,-45.873476 170.484929,-45.873425 170.485062,-45.873109 170.485068,-45.873094 170.485076,-45.873077 170.485107,-45.873083 170.485093,-45.873115</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">4555231</SimpleData>
+<SimpleData name="title_no">478908</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">2012-01-19 15:39:17</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 1 Deposited Plan 420008, 4,427 m2</SimpleData>
+<SimpleData name="number_owners">3</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485160,-45.873118 170.485129,-45.873111 170.485138,-45.873090 170.485168,-45.873096 170.485179,-45.873098 170.485179,-45.873122 170.485160,-45.873118</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">182916</SimpleData>
+<SimpleData name="title_no">OT278/175</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1936-11-14 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Limited as to Parcels</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 6 Deeds Plan 251, 4,532 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484876,-45.873508 170.484847,-45.873578 170.483667,-45.873578 170.483667,-45.873494 170.483733,-45.873272 170.484860,-45.873505 170.484876,-45.873508</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">4318372</SimpleData>
+<SimpleData name="title_no">236944</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">2006-09-05 09:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 4 Deposited Plan 358149, 500 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484181,-45.873308 170.484137,-45.873299 170.483750,-45.873219 170.483766,-45.873165 170.483788,-45.873090 170.484145,-45.873142 170.484181,-45.873308</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">4318370</SimpleData>
+<SimpleData name="title_no">236942</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">2006-09-05 09:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 2 Deposited Plan 358149, 506 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484285,-45.872948 170.484404,-45.872973 170.484341,-45.873115 170.484304,-45.873333 170.484181,-45.873308 170.484145,-45.873142 170.484271,-45.872945 170.484285,-45.872948</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">4318369</SimpleData>
+<SimpleData name="title_no">236941</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">2006-09-05 09:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 1 Deposited Plan 358149, 769 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484145,-45.873142 170.483788,-45.873090 170.483857,-45.872860 170.484271,-45.872945 170.484145,-45.873142</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">10203</SimpleData>
+<SimpleData name="title_no">OT4B/385</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1970-03-25 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 1 Deposited Plan 11972, 582 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484195,-45.872707 170.484498,-45.872770 170.484497,-45.872774 170.484425,-45.872943 170.483867,-45.872828 170.483830,-45.872820 170.483844,-45.872788 170.484097,-45.872841 170.484146,-45.872822 170.484195,-45.872707</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">113429</SimpleData>
+<SimpleData name="title_no">OT9C/641</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1984-03-08 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 2 Deposited Plan 11972, 382 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.483844,-45.872788 170.483885,-45.872691 170.484115,-45.872691 170.484195,-45.872707 170.484146,-45.872822 170.484097,-45.872841 170.483844,-45.872788</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">247141</SimpleData>
+<SimpleData name="title_no">OT6A/1194</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1975-04-03 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 1 Deposited Plan 10154, 577 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484498,-45.872770 170.484195,-45.872707 170.484202,-45.872691 170.484532,-45.872691 170.484498,-45.872770</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">71632</SimpleData>
+<SimpleData name="title_no">OTB1/574</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1962-06-20 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 2 Deposited Plan 10154, 382 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484115,-45.872691 170.484202,-45.872691 170.484195,-45.872707 170.484115,-45.872691</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">229319</SimpleData>
+<SimpleData name="title_no">OT6C/101</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1975-12-12 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Limited as to Parcels</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Part Lot 8 Block III Deeds Plan 15, 970 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.483667,-45.872754 170.483667,-45.872691 170.483693,-45.872691 170.483667,-45.872754</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">112734</SimpleData>
+<SimpleData name="title_no">OT97/64</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1893-10-20 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Allotment 6 Block II Deeds Plan 15, 1,012 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485021,-45.872691 170.485179,-45.872691 170.485179,-45.872723 170.485021,-45.872691</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">112545</SimpleData>
+<SimpleData name="title_no">OT8B/465</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1980-02-21 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 7 Block II Deeds Plan 15, 1,012 m2</SimpleData>
+<SimpleData name="number_owners">2</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485179,-45.872723 170.485179,-45.872751 170.485118,-45.872897 170.484799,-45.872831 170.484497,-45.872774 170.484498,-45.872770 170.484532,-45.872691 170.485021,-45.872691 170.485179,-45.872723</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">250035</SimpleData>
+<SimpleData name="title_no">OT7A/932</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1977-06-20 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 1 Deposited Plan 15796, 551 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.484797,-45.872867 170.484748,-45.872887 170.484701,-45.873000 170.484425,-45.872943 170.484497,-45.872774 170.484799,-45.872831 170.485118,-45.872897 170.485104,-45.872928 170.484797,-45.872867</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Placemark><styleUrl>#nz-property-titlesId</styleUrl>
+<ExtendedData><SchemaData schemaUrl="#nz-property-titlesId"><SimpleData name="id">250036</SimpleData>
+<SimpleData name="title_no">OT7A/933</SimpleData>
+<SimpleData name="status">LIVE</SimpleData>
+<SimpleData name="type">Freehold</SimpleData>
+<SimpleData name="land_district">Otago</SimpleData>
+<SimpleData name="issue_date">1977-06-20 00:00:00</SimpleData>
+<SimpleData name="guarantee_status">Guarantee</SimpleData>
+<SimpleData name="estate_description">Fee Simple, 1/1, Lot 2 Deposited Plan 15796, 450 m2</SimpleData>
+<SimpleData name="number_owners">1</SimpleData>
+<SimpleData name="spatial_extents_shared">False</SimpleData>
+</SchemaData>
+</ExtendedData>
+<Polygon><outerBoundaryIs><LinearRing><tessellate>1</tessellate>
+<coordinates> 170.485044,-45.873071 170.484701,-45.873000 170.484748,-45.872887 170.484797,-45.872867 170.485104,-45.872928 170.485044,-45.873071</coordinates>
+</LinearRing>
+</outerBoundaryIs>
+</Polygon>
+</Placemark>
+<Schema id="nz-property-titlesId" name="nz-property-titles"><SimpleField name="id" type="int"><displayName><![CDATA[id]]></displayName>
+</SimpleField>
+<SimpleField name="title_no" type="string"><displayName><![CDATA[title_no]]></displayName>
+</SimpleField>
+<SimpleField name="status" type="string"><displayName><![CDATA[status]]></displayName>
+</SimpleField>
+<SimpleField name="type" type="string"><displayName><![CDATA[type]]></displayName>
+</SimpleField>
+<SimpleField name="land_district" type="string"><displayName><![CDATA[land_district]]></displayName>
+</SimpleField>
+<SimpleField name="issue_date" type="string"><displayName><![CDATA[issue_date]]></displayName>
+</SimpleField>
+<SimpleField name="guarantee_status" type="string"><displayName><![CDATA[guarantee_status]]></displayName>
+</SimpleField>
+<SimpleField name="estate_description" type="string"><displayName><![CDATA[estate_description]]></displayName>
+</SimpleField>
+<SimpleField name="number_owners" type="int"><displayName><![CDATA[number_owners]]></displayName>
+</SimpleField>
+<SimpleField name="spatial_extents_shared" type="string"><displayName><![CDATA[spatial_extents_shared]]></displayName>
+</SimpleField>
+</Schema>
+<Style id="nz-property-titlesId"><IconStyle><color>ff993300</color>
+<scale>0.2</scale>
+<Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+</Icon>
+</IconStyle>
+<LineStyle><color>ff993300</color>
+<width>2</width>
+</LineStyle>
+<PolyStyle><color>7f993300</color>
+</PolyStyle>
+<BalloonStyle><text><![CDATA[
+<html>
+<head>
+    <style type="text/css">
+        table {
+            width: 100%;
+            border-width: 1px 0 1px 0;
+            border-style: solid;
+            margin-bottom: 10px;
+        }
+
+        th, td {
+            text-align: left;
+        }
+
+        th {
+            width:auto;
+        }
+    </style>
+</head>
+<body>
+    <base href="https://data.linz.govt.nz/" />
+
+    <h2>NZ Property Titles</h2>
+
+    <table>
+        <tbody>
+            
+                <tr><th>$[nz-property-titles/id/displayName]</th><td>$[nz-property-titles/id]</th></tr>
+            
+                <tr><th>$[nz-property-titles/title_no/displayName]</th><td>$[nz-property-titles/title_no]</th></tr>
+            
+                <tr><th>$[nz-property-titles/status/displayName]</th><td>$[nz-property-titles/status]</th></tr>
+            
+                <tr><th>$[nz-property-titles/type/displayName]</th><td>$[nz-property-titles/type]</th></tr>
+            
+                <tr><th>$[nz-property-titles/land_district/displayName]</th><td>$[nz-property-titles/land_district]</th></tr>
+            
+                <tr><th>$[nz-property-titles/issue_date/displayName]</th><td>$[nz-property-titles/issue_date]</th></tr>
+            
+                <tr><th>$[nz-property-titles/guarantee_status/displayName]</th><td>$[nz-property-titles/guarantee_status]</th></tr>
+            
+                <tr><th>$[nz-property-titles/estate_description/displayName]</th><td>$[nz-property-titles/estate_description]</th></tr>
+            
+                <tr><th>$[nz-property-titles/number_owners/displayName]</th><td>$[nz-property-titles/number_owners]</th></tr>
+            
+                <tr><th>$[nz-property-titles/spatial_extents_shared/displayName]</th><td>$[nz-property-titles/spatial_extents_shared]</th></tr>
+            
+        </tbody>
+    </table>
+
+    <div>Source: <a href="https://data.linz.govt.nz/layer/50804-nz-property-titles/" onclick="window.open('about:blank'); window.open(this.href); return false;">NZ Property Titles</a></div>
+    
+        <div>License: <a href="https://data.linz.govt.nz/license/attribution-4-0-international/" onclick="window.open('about:blank'); window.open(this.href); return false;">Creative Commons Attribution 4.0 International</a></div>
+    
+    <div>Data last updated: 07 Feb 2025</div>
+    <div>Downloaded from <a href="https://data.linz.govt.nz/" onclick="window.open('about:blank'); window.open(this.href); return false;">LINZ Data Service</a> on 12 Feb 2025</div>
+</body>
+</html>
+]]></text>
+</BalloonStyle>
+</Style>
+</Document>
+</kml>

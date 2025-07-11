@@ -1,0 +1,44 @@
+# Load required libraries
+if (!requireNamespace("readr", quietly = TRUE)) {
+  install.packages("readr")
+}
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+  install.packages("dplyr")
+}
+if (!requireNamespace("ggplot2", quietly = TRUE)) {
+  install.packages("ggplot2")
+}
+
+library(readr)
+library(dplyr)
+library(ggplot2)
+
+# Step 1: Open a file dialog to select the CSV file
+file_path <- file.choose()  # Allows user to select the file
+
+# Step 2: Read the CSV file into a data frame
+data <- read_csv(file_path)
+
+# Step 3: Ensure the data has the correct columns (adjust column names if necessary)
+# Assuming the file contains columns named "depth" and "speed_of_sound"
+head(data)  # Display the first few rows to confirm
+
+# Filter to ensure 100 values for "depth" and "speed_of_sound"
+filtered_data <- data %>%
+  select(depth, speed_of_sound) %>%
+  slice_head(n = 100)  # Select the first 32 rows
+
+# Step 4: Calculate the harmonic mean of the speed_of_sound values
+harmonic_mean <- 32 / sum(1 / filtered_data$speed_of_sound, na.rm = TRUE)
+
+# Step 5: Print the result
+cat("Harmonic Speed of Sound Value:", harmonic_mean, "\n")
+
+# Step 6: Plot the values
+ggplot(filtered_data, aes(x = depth, y = speed_of_sound)) +
+  geom_line(color = "blue", size = 1) +    # Line plot
+  geom_point(color = "red", size = 2) +   # Add points for clarity
+  ggtitle("Depth vs Speed of Sound") +
+  xlab("Depth (m)") +
+  ylab("Speed of Sound (m/s)") +
+  theme_minimal()

@@ -1,2 +1,8 @@
-
-OneDrive_2025-01-15.zip
+# Ignore specific large file
+MOLYNEUX BAY 2025_Desktop - Copy\IXSURVEY_OneDrive_2013 SURVEY\Molyneux Bay coastal survey\Molyneux Bay offshore IX Survey\AU339 Molyneux Bay Deliverables\2_Products\2_Caris CSAR surface\MB_2m_NZGD2000_NZTM_OD.csar0
+# Optional: Common large file patterns
+*.zip
+*.tar
+*.gz
+*.mp4
+*.mov

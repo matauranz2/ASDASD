@@ -1,0 +1,10 @@
+plot(data$speed_of_sound, data$depth, 
+     type = "p", 
+     ylim = rev(range(data$depth)), 
+     xlab = "Speed of Sound (units)", 
+     ylab = "Depth (units)", 
+     main = "Depth vs Speed of Sound (Custom Points)",
+     pch = 16,  # Point shape (16 = filled circle)
+     col = "blue",  # Point color
+     cex = 0.5  # Point size
+)
